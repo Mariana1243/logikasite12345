@@ -1,4 +1,7 @@
 <html>
+    <head>
+        <link  src="style.css">
+    </head>
     <body>
         <header>
             <img src="/uploads/2020/11/logo_0_1606475988.png"/>
